@@ -24,5 +24,10 @@
         "title": "Esp Fix",
         "description": "Esp Fix Script",
         "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/espfix.lua"
+    },
+       {
+        "title": "Skidware",
+        "description": "Vape Config Script",
+        "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/skidware.lua"
     }
 ]
