@@ -29,5 +29,10 @@
         "title": "Skidware",
         "description": "Vape Config Script",
         "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/skidware.lua"
+    },
+     {
+        "title": "Cat V5",
+        "description": "Cat Config Loader",
+        "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/catv5.lua"
     }
 ]
