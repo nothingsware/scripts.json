@@ -9,5 +9,10 @@
         "title": "BEDWARS",
         "description": "Nickname Hider Script",
         "url": "https://raw.githubusercontent.com/7GrandDadPGN/personalscripts/refs/heads/main/NickHider/NickHider.lua"
+    },
+     {
+        "title": "Aurora",
+        "description": "Aurora (solara supported)",
+        "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/Aurora.lua"
     }
 ]
