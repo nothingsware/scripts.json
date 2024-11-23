@@ -34,5 +34,10 @@
         "title": "Cat V5",
         "description": "Cat Config Loader",
         "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/catv5.lua"
+    },
+    {
+        "title": "Crow Script",
+        "description": "Crow Script Loader",
+        "url": "https://raw.githubusercontent.com/nothingsware/auroa/refs/heads/main/crow.lua"
     }
 ]
